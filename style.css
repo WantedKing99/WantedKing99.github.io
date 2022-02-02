@@ -1,0 +1,73 @@
+body{
+    background: linear-gradient(to right, #a8ff78, #78ffd6); 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#4e54c8;
+}
+/* div{
+    border: solid 1px;
+} */
+h2{
+    text-align: center;
+}
+.promo-title{
+    font-size: 70px;
+	font-weight: 500;
+	text-align: center;
+}
+.container{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+.container1{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.container2{
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.container3{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.main-container{
+    display: flex;
+    /* justify-content: center; */
+}
+.slika:hover{
+    transform: scale(1.2);
+}
+.text{
+    font-size: 20px;
+	font-weight: 500;
+    /* margin-left: 70px; */
+    text-align: center;
+}
+.text1{
+    font-size: 20px;
+	font-weight: 500;
+}
+.listaMana{
+    font-size: 17px;
+	font-weight: 500;
+    margin-left: 50px;
+}
+.listaVrlina{
+    font-size: 17px;
+	font-weight: 500;
+    margin-left: 50px;
+}
+/* .divVrlina{
+    margin-bottom: -100px;
+} */
